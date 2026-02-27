@@ -12,7 +12,7 @@ Ajouter des enregistrements tests :
 
 Partie 2 — Développement du Web Service PHP 8
 Pour la création du projet php, j'ai travaillé avec l'IDE (visuel studio code).
-###################################################################" Structure du projet #########################################################################################
+######################### Structure du projet ########################
 <img width="608" height="698" alt="image" src="https://github.com/user-attachments/assets/af1e75d7-0408-4662-b108-9e4e3f036320" />
 Tester les Web Services avec Advanced REST Client
 
