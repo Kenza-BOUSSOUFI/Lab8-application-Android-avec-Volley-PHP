@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">projet_lab8_ws</string>
+    <string name="nom_label">Nom de l\'étudiant :</string>
+    <string name="prenom_label">Prénom de l\'étudiant :</string>
+    <string name="ville_label">Ville de résidence :</string>
+    <string name="sexe_label">Genre :</string>
+    <string name="sexe_homme">Masculin</string>
+    <string name="sexe_femme">Féminin</string>
+    <string name="add_button">Inscrire l\'étudiant</string>
+    <string name="view_list_button">Voir la liste</string>
+</resources>
