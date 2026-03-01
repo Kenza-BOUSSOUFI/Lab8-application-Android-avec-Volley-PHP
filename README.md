@@ -37,7 +37,23 @@ Avec la méthode GET.
 
 
 Partie 3 — Application Android (Volley + Gson)
-Étape 4.6 – Sécurisation du réseau local (Android 9+)
+Étape 4.7 – Test et vérification:
+1- Aprés faire lancer le serveur Apache et MySQL et exécuter l’application sur l’émulateur (pixel 6).On va essayer de Saisir un étudiant et cliquer sur Inscrire l'etudiant:
+
+<img width="711" height="1102" alt="image" src="https://github.com/user-attachments/assets/2a53e2b2-9269-4376-9877-956b59f2c434" />
+
+2- On va ouvrir Logcat pour observer la réponse du serveur:
+
+<img width="945" height="488" alt="image" src="https://github.com/user-attachments/assets/fb6df3b4-e11f-48b0-b696-d6500ca6452e" />
+
+L'étudiant nommé test1 test que j'ai ajouté, est affiché dans la réponse du serveur.
+
+3- On va afficher la liste des étudiants:
+
+<img width="944" height="1127" alt="image" src="https://github.com/user-attachments/assets/e193b9b8-0a23-4341-b91e-560734e97e71" />
+
+
+
 
 
 
